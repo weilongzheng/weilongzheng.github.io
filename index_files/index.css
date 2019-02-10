@@ -1,0 +1,26 @@
+/* ::::: http://bcmi.sjtu.edu.cn/~pengyong/templatemo_style.css ::::: */
+
+html { background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+body { margin: 0pt; padding: 0pt; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 1.5em; width: 100%; display: table; }
+a.grey:link, a.grey:visited { color: rgb(103, 103, 103); text-decoration: none; }
+a.grey:active, a.grey:hover { color: rgb(103, 103, 103); text-decoration: none; }
+p { font-family: Tahoma; font-size: 13px; color: rgb(72, 72, 72); text-align: justify; margin: 0pt 0pt 10px; }
+h2 { font-family: Tahoma; font-size: 25px; color: rgb(8, 149, 214); font-weight: normal; margin: 0pt 0pt 10px; }
+h3 { font-family: Tahoma; font-size: 12px; color: rgb(103, 103, 103); font-weight: normal; margin: 0pt 0pt 5px; }
+#templatemo_container { width: 960px; margin: auto; }
+#templatemo_header { width: 1000px; height: 50px; background: url('templatemo_bg.jpg') repeat scroll 0pt -111px transparent; margin: 0pt 0pt 0pt -15px; padding: 1px 0pt 0pt; }
+#templatemo_content_area { width: 960px; margin: 20px 0pt 0pt; }
+#templatemo_left { float: left; width: 250px; }
+#templatemo_right { float: right; width: 685px; }
+.templaemo_h_line { width: 100%; clear: both; height: 1px; background: url('templatemo_h_line.jpg') repeat scroll 0% 0% transparent; margin: 0pt 0pt 10px; }
+.templatemo_section_2 { width: 220px; margin: 0pt 0pt 10px; padding: 0px 15px; }
+.templatemo_section_2 .green { border-left: 8px solid rgb(100, 214, 8); padding: 0pt 0pt 0pt 5px; margin: 0pt 0pt 15px; }
+.templatemo_section_2 .blue { border-left: 8px solid rgb(8, 149, 214); padding: 0pt 0pt 0pt 5px; margin: 0pt 0pt 15px; }
+.templatemo_section_2 .yellow { border-left: 8px solid rgb(255, 204, 102); padding: 0pt 0pt 0pt 5px; margin: 0pt 0pt 15px; }
+.templatemo_section_3 { width: 685px; margin: 0pt 0pt 20px; background: url('templatemo_section_3_bg.jpg') no-repeat scroll 105px -5px transparent; }
+.templatemo_section_4 { width: 685px; margin: 0pt 0pt 15px; }
+.templatemo_section_5 { width: 685px; background: url('templatemo_section_5.jpg') no-repeat scroll center top transparent; margin: 0pt 0pt 20px; padding: 15px 0pt 0pt; }
+#templatemo_footer {width: 100%; height: 52px; background: url('templatemo_footer_bg.jpg') repeat scroll 0% 0% transparent; color: rgb(255, 255, 255); text-align: center; padding: 36px 0pt 0pt; margin: 0pt; }
+.cleaner { clear: both; height: 0pt; margin: 0pt; padding: 0pt; }
+/* ::::: http://bcmi.sjtu.edu.cn/~pengyong/fullsize/fullsize.css ::::: */
+
