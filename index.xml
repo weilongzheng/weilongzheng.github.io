@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei-Long Zheng on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/</link>
+    <description>Recent content in Wei-Long Zheng on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vigilance Estimation Using a Wearable EOG Device in Real Driving Environment</title>
+      <link>https://weilongzheng.github.io/publication/zheng2019vigilance/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2019vigilance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A regression method with subnetwork neurons for vigilance estimation using EOG and EEG</title>
+      <link>https://weilongzheng.github.io/publication/wu2018regression/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/wu2018regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Feedback Framework with Scan-Path Clustering for Deep Affective Models</title>
+      <link>https://weilongzheng.github.io/publication/zhao2018active/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zhao2018active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Subject Emotion Recognition Using Deep Adaptation Networks</title>
+      <link>https://weilongzheng.github.io/publication/li2018cross/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2018cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WGAN Domain Adaptation for EEG-Based Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/luo2018wgan/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/luo2018wgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Healthcare</title>
+      <link>https://weilongzheng.github.io/project/icu/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/project/icu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coma Prognostication</title>
+      <link>https://weilongzheng.github.io/project/coma/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/project/coma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data</title>
+      <link>https://weilongzheng.github.io/publication/du2018semi/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/du2018semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Vigilance Estimation with Adversarial Domain Adaptation Networks</title>
+      <link>https://weilongzheng.github.io/publication/li2018multimodal/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2018multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep Quality Estimation with Adversarial Domain Adaptation: From Laboratory to Real Scenario</title>
+      <link>https://weilongzheng.github.io/publication/tong2018sleep/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/tong2018sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affective Brain-Comouter Interactions</title>
+      <link>https://weilongzheng.github.io/project/emotion/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/project/emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEED-IV</title>
+      <link>https://weilongzheng.github.io/datasets/seed-iv/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/datasets/seed-iv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotionmeter: A multimodal framework for recognizing human emotions</title>
+      <link>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-based emotion recognition using domain adaptation network</title>
+      <link>https://weilongzheng.github.io/publication/jin2017eeg/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jin2017eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-based sleep quality evaluation with deep transfer learning</title>
+      <link>https://weilongzheng.github.io/publication/zhang2017eeg/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zhang2017eeg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

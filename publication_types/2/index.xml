@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vigilance Estimation Using a Wearable EOG Device in Real Driving Environment</title>
+      <link>https://weilongzheng.github.io/publication/zheng2019vigilance/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2019vigilance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A regression method with subnetwork neurons for vigilance estimation using EOG and EEG</title>
+      <link>https://weilongzheng.github.io/publication/wu2018regression/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/wu2018regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotionmeter: A multimodal framework for recognizing human emotions</title>
+      <link>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying stable patterns over time for emotion recognition from EEG</title>
+      <link>https://weilongzheng.github.io/publication/zheng2017identifying/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2017identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-based emotion recognition using hierarchical network with subnetwork nodes</title>
+      <link>https://weilongzheng.github.io/publication/yang2018eeg/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/yang2018eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multimodal approach to estimating vigilance using EEG and forehead EOG</title>
+      <link>https://weilongzheng.github.io/publication/zheng2017multimodal/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2017multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online depth image-based object tracking with sparse representation and object detection</title>
+      <link>https://weilongzheng.github.io/publication/zheng2017online/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2017online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An unsupervised discriminative extreme learning machine and its applications to data clustering</title>
+      <link>https://weilongzheng.github.io/publication/peng2016unsupervised/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/peng2016unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating critical frequency bands and channels for EEG-based emotion recognition with deep neural networks</title>
+      <link>https://weilongzheng.github.io/publication/zheng2015investigating/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2015investigating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

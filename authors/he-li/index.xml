@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>He Li on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/he-li/</link>
+    <description>Recent content in He Li on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Nov 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/he-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cross-Subject Emotion Recognition Using Deep Adaptation Networks</title>
+      <link>https://weilongzheng.github.io/publication/li2018cross/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2018cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Vigilance Estimation with Adversarial Domain Adaptation Networks</title>
+      <link>https://weilongzheng.github.io/publication/li2018multimodal/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2018multimodal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
