@@ -84,6 +84,14 @@
     
     <url>
     
+      <loc>https://weilongzheng.github.io/publication/zheng2018thesis/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://weilongzheng.github.io/project/emotion/</loc>
       <lastmod>2018-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -498,6 +506,15 @@
     
       <loc>https://weilongzheng.github.io/publication_types/3/</loc>
       <lastmod>2017-04-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://weilongzheng.github.io/publication_types/4/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1010,15 +1027,6 @@
     
       <loc>https://weilongzheng.github.io/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://weilongzheng.github.io/authors/wei-long-zheng/</loc>
-      <lastmod>2018-11-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
