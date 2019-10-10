@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oluwaseun Akeju on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/oluwaseun-akeju/</link>
+    <description>Recent content in Oluwaseun Akeju on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/oluwaseun-akeju/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptive Sedation Monitoring from EEG in ICU Patients with Online Learning</title>
+      <link>https://weilongzheng.github.io/publication/zheng2019adaptive/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2019adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated tracking of level of consciousness and delirium in critical illness using deep learning</title>
+      <link>https://weilongzheng.github.io/publication/sun2019automated/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/sun2019automated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
