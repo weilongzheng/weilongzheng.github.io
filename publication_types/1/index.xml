@@ -6,10 +6,46 @@
     <description>Recent content in 1 on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Epileptiform Abnormalities are Associated with Increased Mortality in Adult ECMO Patients</title>
+      <link>https://weilongzheng.github.io/publication/amorim2020767/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/amorim2020767/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Model of EEG Trends Predicts Delayed Cerebral Ischemia Post-subarachnoid Hemorrhage</title>
+      <link>https://weilongzheng.github.io/publication/zheng2020760/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2020760/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization</title>
+      <link>https://weilongzheng.github.io/publication/ma2019reducing/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2019reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition using Multimodal Residual LSTM Network</title>
+      <link>https://weilongzheng.github.io/publication/ma2019emotion/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2019emotion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classification of five emotions from EEG and eye movement signals: Discrimination ability and stability over time</title>

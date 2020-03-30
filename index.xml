@@ -6,8 +6,53 @@
     <description>Recent content in Wei-Long Zheng on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Early Action Recognition with Category Exclusion using Policy-based Reinforcement Learning</title>
+      <link>https://weilongzheng.github.io/publication/weng2020early/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/weng2020early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epileptiform Abnormalities are Associated with Increased Mortality in Adult ECMO Patients</title>
+      <link>https://weilongzheng.github.io/publication/amorim2020767/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/amorim2020767/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Model of EEG Trends Predicts Delayed Cerebral Ischemia Post-subarachnoid Hemorrhage</title>
+      <link>https://weilongzheng.github.io/publication/zheng2020760/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2020760/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization</title>
+      <link>https://weilongzheng.github.io/publication/ma2019reducing/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2019reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition using Multimodal Residual LSTM Network</title>
+      <link>https://weilongzheng.github.io/publication/ma2019emotion/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2019emotion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Delayed Cerebral Ischemia Prediction</title>
@@ -96,51 +141,6 @@
       <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhao2018active/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-Subject Emotion Recognition Using Deep Adaptation Networks</title>
-      <link>https://weilongzheng.github.io/publication/li2018cross/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/li2018cross/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WGAN Domain Adaptation for EEG-Based Emotion Recognition</title>
-      <link>https://weilongzheng.github.io/publication/luo2018wgan/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/luo2018wgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical Healthcare</title>
-      <link>https://weilongzheng.github.io/project/icu/</link>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://weilongzheng.github.io/project/icu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coma Prognostication</title>
-      <link>https://weilongzheng.github.io/project/coma/</link>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://weilongzheng.github.io/project/coma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data</title>
-      <link>https://weilongzheng.github.io/publication/du2018semi/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/du2018semi/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,28 @@
     <description>Recent content in Bao-Liang Lu on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/authors/bao-liang-lu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization</title>
+      <link>https://weilongzheng.github.io/publication/ma2019reducing/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2019reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition using Multimodal Residual LSTM Network</title>
+      <link>https://weilongzheng.github.io/publication/ma2019emotion/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2019emotion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multimodal Emotion Recognition Using Deep Canonical Correlation Analysis</title>
