@@ -6,8 +6,26 @@
     <description>Recent content in Wei-Long Zheng on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building and Understanding the Brain</title>
+      <link>https://weilongzheng.github.io/project/thalamus/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/project/thalamus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical Care Neurophysiology</title>
+      <link>https://weilongzheng.github.io/project/neurophysiology/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://weilongzheng.github.io/project/neurophysiology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Early Action Recognition with Category Exclusion using Policy-based Reinforcement Learning</title>
@@ -123,24 +141,6 @@
       <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2019vigilance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A regression method with subnetwork neurons for vigilance estimation using EOG and EEG</title>
-      <link>https://weilongzheng.github.io/publication/wu2018regression/</link>
-      <pubDate>Fri, 21 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/wu2018regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active Feedback Framework with Scan-Path Clustering for Deep Affective Models</title>
-      <link>https://weilongzheng.github.io/publication/zhao2018active/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/zhao2018active/</guid>
       <description></description>
     </item>
     
