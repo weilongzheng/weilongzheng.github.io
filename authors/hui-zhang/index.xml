@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hui Zhang on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/hui-zhang/</link>
+    <description>Recent content in Hui Zhang on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/hui-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multimodal Vigilance Estimation Using Deep Learning</title>
+      <link>https://weilongzheng.github.io/publication/wu2020multimodal/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/wu2020multimodal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
