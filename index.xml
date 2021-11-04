@@ -6,8 +6,26 @@
     <description>Recent content in Wei-Long Zheng on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predicting Neurological Outcome in Comatose Patients after Cardiac Arrest with Multiscale Deep Neural Networks</title>
+      <link>https://weilongzheng.github.io/publication/zheng2021predicting/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2021predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Algorithm for Predicting Outcome after Subarachnoid Hemorrhage</title>
+      <link>https://weilongzheng.github.io/publication/chen2021machine/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/chen2021machine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High epileptiform discharge burden predicts delayed cerebral ischemia after subarachnoid hemorrhage</title>
@@ -15,6 +33,15 @@
       <pubDate>Sun, 11 Apr 2021 00:00:00 -0400</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/kim2021high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/liu2021comparing/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2021comparing/</guid>
       <description></description>
     </item>
     
@@ -114,33 +141,6 @@
       <pubDate>Mon, 23 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2019adaptive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated tracking of level of consciousness and delirium in critical illness using deep learning</title>
-      <link>https://weilongzheng.github.io/publication/sun2019automated/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/sun2019automated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal Emotion Recognition Using Deep Canonical Correlation Analysis</title>
-      <link>https://weilongzheng.github.io/publication/liu2019multimodal/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/liu2019multimodal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification of five emotions from EEG and eye movement signals: Discrimination ability and stability over time</title>
-      <link>https://weilongzheng.github.io/publication/li2019classification/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/li2019classification/</guid>
       <description></description>
     </item>
     
