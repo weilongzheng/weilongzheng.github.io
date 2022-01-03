@@ -6,15 +6,24 @@
     <description>Recent content in Nicolas Gaspard on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/authors/nicolas-gaspard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Predicting Neurological Outcome from Electroencephalogram Dynamics in Comatose Patients after Cardiac Arrest with Deep Learning</title>
+      <link>https://weilongzheng.github.io/publication/zheng2021predicting2/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2021predicting2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Neurological Outcome in Comatose Patients after Cardiac Arrest with Multiscale Deep Neural Networks</title>
       <link>https://weilongzheng.github.io/publication/zheng2021predicting/</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2021predicting/</guid>
       <description></description>

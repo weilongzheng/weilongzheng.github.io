@@ -6,7 +6,7 @@
     <description>Recent content in Wei Liu on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/authors/wei-liu/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition</title>
       <link>https://weilongzheng.github.io/publication/liu2021comparing/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2021comparing/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Multimodal Emotion Recognition Using Deep Canonical Correlation Analysis</title>
       <link>https://weilongzheng.github.io/publication/liu2019multimodal/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2019multimodal/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Classification of five emotions from EEG and eye movement signals: Discrimination ability and stability over time</title>
       <link>https://weilongzheng.github.io/publication/li2019classification/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/li2019classification/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Vigilance Estimation Using a Wearable EOG Device in Real Driving Environment</title>
       <link>https://weilongzheng.github.io/publication/zheng2019vigilance/</link>
-      <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2019vigilance/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Emotionmeter: A multimodal framework for recognizing human emotions</title>
       <link>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Identifying Gender Differences in Multimodal Emotion Recognition Using Bimodal Deep AutoEncoder</title>
       <link>https://weilongzheng.github.io/publication/yan2017identifying/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/yan2017identifying/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Investigating gender differences of brain areas in emotion recognition using LSTM neural network</title>
       <link>https://weilongzheng.github.io/publication/yan2017investigating/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/yan2017investigating/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Multimodal emotion recognition using deep neural networks</title>
       <link>https://weilongzheng.github.io/publication/tang2017multimodal/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/tang2017multimodal/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Detecting driving fatigue with multimodal deep learning</title>
       <link>https://weilongzheng.github.io/publication/du2017detecting/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/du2017detecting/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Continuous vigilance estimation using LSTM neural networks</title>
       <link>https://weilongzheng.github.io/publication/zhang2016continuous/</link>
-      <pubDate>Fri, 30 Sep 2016 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhang2016continuous/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Emotion recognition using multimodal deep learning</title>
       <link>https://weilongzheng.github.io/publication/liu2016emotion/</link>
-      <pubDate>Fri, 30 Sep 2016 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2016emotion/</guid>
       <description></description>
@@ -113,7 +113,7 @@
     <item>
       <title>Multimodal emotion recognition using multimodal deep learning</title>
       <link>https://weilongzheng.github.io/publication/liu2016multimodal/</link>
-      <pubDate>Fri, 26 Feb 2016 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2016multimodal/</guid>
       <description></description>

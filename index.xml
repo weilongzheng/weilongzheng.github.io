@@ -6,13 +6,22 @@
     <description>Recent content in Wei-Long Zheng on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predicting Neurological Outcome from Electroencephalogram Dynamics in Comatose Patients after Cardiac Arrest with Deep Learning</title>
+      <link>https://weilongzheng.github.io/publication/zheng2021predicting2/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2021predicting2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Neurological Outcome in Comatose Patients after Cardiac Arrest with Multiscale Deep Neural Networks</title>
       <link>https://weilongzheng.github.io/publication/zheng2021predicting/</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2021predicting/</guid>
       <description></description>
@@ -21,7 +30,7 @@
     <item>
       <title>A Machine Learning Algorithm for Predicting Outcome after Subarachnoid Hemorrhage</title>
       <link>https://weilongzheng.github.io/publication/chen2021machine/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/chen2021machine/</guid>
       <description></description>
@@ -30,7 +39,7 @@
     <item>
       <title>High epileptiform discharge burden predicts delayed cerebral ischemia after subarachnoid hemorrhage</title>
       <link>https://weilongzheng.github.io/publication/kim2021high/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/kim2021high/</guid>
       <description></description>
@@ -39,7 +48,7 @@
     <item>
       <title>Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition</title>
       <link>https://weilongzheng.github.io/publication/liu2021comparing/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2021comparing/</guid>
       <description></description>
@@ -48,7 +57,7 @@
     <item>
       <title>Building and Understanding the Brain</title>
       <link>https://weilongzheng.github.io/project/thalamus/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/project/thalamus/</guid>
       <description></description>
@@ -57,7 +66,7 @@
     <item>
       <title>Critical Care Neurophysiology</title>
       <link>https://weilongzheng.github.io/project/neurophysiology/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/project/neurophysiology/</guid>
       <description></description>
@@ -66,7 +75,7 @@
     <item>
       <title>Multimodal Vigilance Estimation Using Deep Learning</title>
       <link>https://weilongzheng.github.io/publication/wu2020multimodal/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wu2020multimodal/</guid>
       <description></description>
@@ -75,7 +84,7 @@
     <item>
       <title>Investigating EEG-based functional connectivity patterns for multimodal emotion recognition</title>
       <link>https://weilongzheng.github.io/publication/wu2020investigating/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wu2020investigating/</guid>
       <description></description>
@@ -84,7 +93,7 @@
     <item>
       <title>Early Action Recognition with Category Exclusion using Policy-based Reinforcement Learning</title>
       <link>https://weilongzheng.github.io/publication/weng2020early/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/weng2020early/</guid>
       <description></description>
@@ -93,7 +102,7 @@
     <item>
       <title>Epileptiform Abnormalities are Associated with Increased Mortality in Adult ECMO Patients</title>
       <link>https://weilongzheng.github.io/publication/amorim2020767/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/amorim2020767/</guid>
       <description></description>
@@ -102,7 +111,7 @@
     <item>
       <title>Machine Learning Model of EEG Trends Predicts Delayed Cerebral Ischemia Post-subarachnoid Hemorrhage</title>
       <link>https://weilongzheng.github.io/publication/zheng2020760/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2020760/</guid>
       <description></description>
@@ -111,7 +120,7 @@
     <item>
       <title>Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization</title>
       <link>https://weilongzheng.github.io/publication/ma2019reducing/</link>
-      <pubDate>Mon, 09 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/ma2019reducing/</guid>
       <description></description>
@@ -120,7 +129,7 @@
     <item>
       <title>Emotion Recognition using Multimodal Residual LSTM Network</title>
       <link>https://weilongzheng.github.io/publication/ma2019emotion/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/ma2019emotion/</guid>
       <description></description>
@@ -129,18 +138,9 @@
     <item>
       <title>Delayed Cerebral Ischemia Prediction</title>
       <link>https://weilongzheng.github.io/project/dci/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/project/dci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptive Sedation Monitoring from EEG in ICU Patients with Online Learning</title>
-      <link>https://weilongzheng.github.io/publication/zheng2019adaptive/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://weilongzheng.github.io/publication/zheng2019adaptive/</guid>
       <description></description>
     </item>
     

@@ -6,15 +6,24 @@
     <description>Recent content in Publications on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Predicting Neurological Outcome from Electroencephalogram Dynamics in Comatose Patients after Cardiac Arrest with Deep Learning</title>
+      <link>https://weilongzheng.github.io/publication/zheng2021predicting2/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2021predicting2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Neurological Outcome in Comatose Patients after Cardiac Arrest with Multiscale Deep Neural Networks</title>
       <link>https://weilongzheng.github.io/publication/zheng2021predicting/</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2021predicting/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>A Machine Learning Algorithm for Predicting Outcome after Subarachnoid Hemorrhage</title>
       <link>https://weilongzheng.github.io/publication/chen2021machine/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/chen2021machine/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>High epileptiform discharge burden predicts delayed cerebral ischemia after subarachnoid hemorrhage</title>
       <link>https://weilongzheng.github.io/publication/kim2021high/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/kim2021high/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition</title>
       <link>https://weilongzheng.github.io/publication/liu2021comparing/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2021comparing/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>Multimodal Vigilance Estimation Using Deep Learning</title>
       <link>https://weilongzheng.github.io/publication/wu2020multimodal/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wu2020multimodal/</guid>
       <description></description>
@@ -59,7 +68,7 @@
     <item>
       <title>Investigating EEG-based functional connectivity patterns for multimodal emotion recognition</title>
       <link>https://weilongzheng.github.io/publication/wu2020investigating/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wu2020investigating/</guid>
       <description></description>
@@ -68,7 +77,7 @@
     <item>
       <title>Early Action Recognition with Category Exclusion using Policy-based Reinforcement Learning</title>
       <link>https://weilongzheng.github.io/publication/weng2020early/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/weng2020early/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Epileptiform Abnormalities are Associated with Increased Mortality in Adult ECMO Patients</title>
       <link>https://weilongzheng.github.io/publication/amorim2020767/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/amorim2020767/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>Machine Learning Model of EEG Trends Predicts Delayed Cerebral Ischemia Post-subarachnoid Hemorrhage</title>
       <link>https://weilongzheng.github.io/publication/zheng2020760/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2020760/</guid>
       <description></description>
@@ -95,7 +104,7 @@
     <item>
       <title>Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization</title>
       <link>https://weilongzheng.github.io/publication/ma2019reducing/</link>
-      <pubDate>Mon, 09 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/ma2019reducing/</guid>
       <description></description>
@@ -104,7 +113,7 @@
     <item>
       <title>Emotion Recognition using Multimodal Residual LSTM Network</title>
       <link>https://weilongzheng.github.io/publication/ma2019emotion/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/ma2019emotion/</guid>
       <description></description>
@@ -113,7 +122,7 @@
     <item>
       <title>Adaptive Sedation Monitoring from EEG in ICU Patients with Online Learning</title>
       <link>https://weilongzheng.github.io/publication/zheng2019adaptive/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2019adaptive/</guid>
       <description></description>
@@ -122,7 +131,7 @@
     <item>
       <title>Automated tracking of level of consciousness and delirium in critical illness using deep learning</title>
       <link>https://weilongzheng.github.io/publication/sun2019automated/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/sun2019automated/</guid>
       <description></description>
@@ -131,7 +140,7 @@
     <item>
       <title>Multimodal Emotion Recognition Using Deep Canonical Correlation Analysis</title>
       <link>https://weilongzheng.github.io/publication/liu2019multimodal/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2019multimodal/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>Classification of five emotions from EEG and eye movement signals: Discrimination ability and stability over time</title>
       <link>https://weilongzheng.github.io/publication/li2019classification/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/li2019classification/</guid>
       <description></description>
@@ -149,7 +158,7 @@
     <item>
       <title>Classification of five emotions from EEG and eye movement signals: complementary representation properties</title>
       <link>https://weilongzheng.github.io/publication/zhao2019classification/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhao2019classification/</guid>
       <description></description>
@@ -158,7 +167,7 @@
     <item>
       <title>Identifying Functional Brain Connectivity Patterns for EEG-Based Emotion Recognition</title>
       <link>https://weilongzheng.github.io/publication/wu2019identifying/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wu2019identifying/</guid>
       <description></description>
@@ -167,7 +176,7 @@
     <item>
       <title>Vigilance Estimation Using a Wearable EOG Device in Real Driving Environment</title>
       <link>https://weilongzheng.github.io/publication/zheng2019vigilance/</link>
-      <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2019vigilance/</guid>
       <description></description>
@@ -176,7 +185,7 @@
     <item>
       <title>A regression method with subnetwork neurons for vigilance estimation using EOG and EEG</title>
       <link>https://weilongzheng.github.io/publication/wu2018regression/</link>
-      <pubDate>Fri, 21 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wu2018regression/</guid>
       <description></description>
@@ -185,7 +194,7 @@
     <item>
       <title>Active Feedback Framework with Scan-Path Clustering for Deep Affective Models</title>
       <link>https://weilongzheng.github.io/publication/zhao2018active/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhao2018active/</guid>
       <description></description>
@@ -194,7 +203,7 @@
     <item>
       <title>Cross-Subject Emotion Recognition Using Deep Adaptation Networks</title>
       <link>https://weilongzheng.github.io/publication/li2018cross/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/li2018cross/</guid>
       <description></description>
@@ -203,7 +212,7 @@
     <item>
       <title>WGAN Domain Adaptation for EEG-Based Emotion Recognition</title>
       <link>https://weilongzheng.github.io/publication/luo2018wgan/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/luo2018wgan/</guid>
       <description></description>
@@ -212,7 +221,7 @@
     <item>
       <title>Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data</title>
       <link>https://weilongzheng.github.io/publication/du2018semi/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/du2018semi/</guid>
       <description></description>
@@ -221,7 +230,7 @@
     <item>
       <title>Multimodal Vigilance Estimation with Adversarial Domain Adaptation Networks</title>
       <link>https://weilongzheng.github.io/publication/li2018multimodal/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/li2018multimodal/</guid>
       <description></description>
@@ -230,7 +239,7 @@
     <item>
       <title>Sleep Quality Estimation with Adversarial Domain Adaptation: From Laboratory to Real Scenario</title>
       <link>https://weilongzheng.github.io/publication/tong2018sleep/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/tong2018sleep/</guid>
       <description></description>
@@ -239,7 +248,7 @@
     <item>
       <title>Affective Brain-Computer Interactions</title>
       <link>https://weilongzheng.github.io/publication/zheng2018thesis/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2018thesis/</guid>
       <description></description>
@@ -248,7 +257,7 @@
     <item>
       <title>Emotionmeter: A multimodal framework for recognizing human emotions</title>
       <link>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2018emotionmeter/</guid>
       <description></description>
@@ -257,7 +266,7 @@
     <item>
       <title>EEG-based emotion recognition using domain adaptation network</title>
       <link>https://weilongzheng.github.io/publication/jin2017eeg/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/jin2017eeg/</guid>
       <description></description>
@@ -266,7 +275,7 @@
     <item>
       <title>EEG-based sleep quality evaluation with deep transfer learning</title>
       <link>https://weilongzheng.github.io/publication/zhang2017eeg/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhang2017eeg/</guid>
       <description></description>
@@ -275,7 +284,7 @@
     <item>
       <title>Emotion Annotation Using Hierarchical Aligned Cluster Analysis</title>
       <link>https://weilongzheng.github.io/publication/zhao2017emotion/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhao2017emotion/</guid>
       <description></description>
@@ -284,7 +293,7 @@
     <item>
       <title>Identifying Gender Differences in Multimodal Emotion Recognition Using Bimodal Deep AutoEncoder</title>
       <link>https://weilongzheng.github.io/publication/yan2017identifying/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/yan2017identifying/</guid>
       <description></description>
@@ -293,7 +302,7 @@
     <item>
       <title>Investigating gender differences of brain areas in emotion recognition using LSTM neural network</title>
       <link>https://weilongzheng.github.io/publication/yan2017investigating/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/yan2017investigating/</guid>
       <description></description>
@@ -302,7 +311,7 @@
     <item>
       <title>Multimodal emotion recognition using deep neural networks</title>
       <link>https://weilongzheng.github.io/publication/tang2017multimodal/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/tang2017multimodal/</guid>
       <description></description>
@@ -311,7 +320,7 @@
     <item>
       <title>Attention evaluation with eye tracking glasses for EEG-based emotion recognition</title>
       <link>https://weilongzheng.github.io/publication/shi2017attention/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/shi2017attention/</guid>
       <description></description>
@@ -320,7 +329,7 @@
     <item>
       <title>Detecting driving fatigue with multimodal deep learning</title>
       <link>https://weilongzheng.github.io/publication/du2017detecting/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/du2017detecting/</guid>
       <description></description>
@@ -329,7 +338,7 @@
     <item>
       <title>Neural patterns between Chinese and Germans for EEG-based emotion recognition</title>
       <link>https://weilongzheng.github.io/publication/wu2017neural/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wu2017neural/</guid>
       <description></description>
@@ -338,7 +347,7 @@
     <item>
       <title>Identifying stable patterns over time for emotion recognition from EEG</title>
       <link>https://weilongzheng.github.io/publication/zheng2017identifying/</link>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2017identifying/</guid>
       <description></description>
@@ -347,7 +356,7 @@
     <item>
       <title>Semi-supervised Bayesian Deep Multi-modal Emotion Recognition</title>
       <link>https://weilongzheng.github.io/publication/du2017semi/</link>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/du2017semi/</guid>
       <description></description>
@@ -356,7 +365,7 @@
     <item>
       <title>EEG-based emotion recognition using hierarchical network with subnetwork nodes</title>
       <link>https://weilongzheng.github.io/publication/yang2018eeg/</link>
-      <pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/yang2018eeg/</guid>
       <description></description>
@@ -365,7 +374,7 @@
     <item>
       <title>A multimodal approach to estimating vigilance using EEG and forehead EOG</title>
       <link>https://weilongzheng.github.io/publication/zheng2017multimodal/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2017multimodal/</guid>
       <description></description>
@@ -374,7 +383,7 @@
     <item>
       <title>Driving fatigue detection with fusion of EEG and forehead EOG</title>
       <link>https://weilongzheng.github.io/publication/huo2016driving/</link>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/huo2016driving/</guid>
       <description></description>
@@ -383,7 +392,7 @@
     <item>
       <title>Measuring sleep quality from EEG with machine learning approaches</title>
       <link>https://weilongzheng.github.io/publication/wang2016measuring/</link>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/wang2016measuring/</guid>
       <description></description>
@@ -392,7 +401,7 @@
     <item>
       <title>Continuous vigilance estimation using LSTM neural networks</title>
       <link>https://weilongzheng.github.io/publication/zhang2016continuous/</link>
-      <pubDate>Fri, 30 Sep 2016 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhang2016continuous/</guid>
       <description></description>
@@ -401,7 +410,7 @@
     <item>
       <title>Emotion recognition using multimodal deep learning</title>
       <link>https://weilongzheng.github.io/publication/liu2016emotion/</link>
-      <pubDate>Fri, 30 Sep 2016 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2016emotion/</guid>
       <description></description>
@@ -410,7 +419,7 @@
     <item>
       <title>Personalizing EEG-based affective models with transfer learning</title>
       <link>https://weilongzheng.github.io/publication/zheng2016personalizing/</link>
-      <pubDate>Sat, 09 Jul 2016 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 09 Jul 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2016personalizing/</guid>
       <description></description>
@@ -419,7 +428,7 @@
     <item>
       <title>Multimodal emotion recognition using multimodal deep learning</title>
       <link>https://weilongzheng.github.io/publication/liu2016multimodal/</link>
-      <pubDate>Fri, 26 Feb 2016 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/liu2016multimodal/</guid>
       <description></description>
@@ -428,7 +437,7 @@
     <item>
       <title>Online depth image-based object tracking with sparse representation and object detection</title>
       <link>https://weilongzheng.github.io/publication/zheng2017online/</link>
-      <pubDate>Fri, 19 Feb 2016 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2017online/</guid>
       <description></description>
@@ -437,7 +446,7 @@
     <item>
       <title>An unsupervised discriminative extreme learning machine and its applications to data clustering</title>
       <link>https://weilongzheng.github.io/publication/peng2016unsupervised/</link>
-      <pubDate>Fri, 22 Jan 2016 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/peng2016unsupervised/</guid>
       <description></description>
@@ -446,7 +455,7 @@
     <item>
       <title>Transfer components between subjects for EEG-based driving fatigue detection</title>
       <link>https://weilongzheng.github.io/publication/zhang2015transfer/</link>
-      <pubDate>Wed, 18 Nov 2015 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhang2015transfer/</guid>
       <description></description>
@@ -455,7 +464,7 @@
     <item>
       <title>Transfer components between subjects for EEG-based emotion recognition</title>
       <link>https://weilongzheng.github.io/publication/zheng2015transfer/</link>
-      <pubDate>Mon, 21 Sep 2015 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2015transfer/</guid>
       <description></description>
@@ -464,7 +473,7 @@
     <item>
       <title>A novel approach to driving fatigue detection using forehead EOG</title>
       <link>https://weilongzheng.github.io/publication/zhang2015novel/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhang2015novel/</guid>
       <description></description>
@@ -473,7 +482,7 @@
     <item>
       <title>Evaluating driving fatigue detection algorithms using eye tracking glasses</title>
       <link>https://weilongzheng.github.io/publication/gao2015evaluating/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/gao2015evaluating/</guid>
       <description></description>
@@ -482,7 +491,7 @@
     <item>
       <title>Revealing critical channels and frequency bands for emotion recognition from EEG with deep belief network</title>
       <link>https://weilongzheng.github.io/publication/zheng2015revealing/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2015revealing/</guid>
       <description></description>
@@ -491,7 +500,7 @@
     <item>
       <title>Combining eye movements and EEG to enhance emotion recognition</title>
       <link>https://weilongzheng.github.io/publication/lu2015combining/</link>
-      <pubDate>Tue, 23 Jun 2015 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 23 Jun 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/lu2015combining/</guid>
       <description></description>
@@ -500,7 +509,7 @@
     <item>
       <title>Comparison of classification methods for EEG-based emotion recognition</title>
       <link>https://weilongzheng.github.io/publication/zheng2015comparison/</link>
-      <pubDate>Sun, 07 Jun 2015 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2015comparison/</guid>
       <description></description>
@@ -509,7 +518,7 @@
     <item>
       <title>Cross-subject and cross-gender emotion classification from EEG</title>
       <link>https://weilongzheng.github.io/publication/zhu2015cross/</link>
-      <pubDate>Sun, 07 Jun 2015 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhu2015cross/</guid>
       <description></description>
@@ -518,7 +527,7 @@
     <item>
       <title>Investigating critical frequency bands and channels for EEG-based emotion recognition with deep neural networks</title>
       <link>https://weilongzheng.github.io/publication/zheng2015investigating/</link>
-      <pubDate>Fri, 08 May 2015 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2015investigating/</guid>
       <description></description>
@@ -527,7 +536,7 @@
     <item>
       <title>EEG-based emotion recognition with manifold regularized extreme learning machine</title>
       <link>https://weilongzheng.github.io/publication/peng2014eeg/</link>
-      <pubDate>Thu, 06 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/peng2014eeg/</guid>
       <description></description>
@@ -536,7 +545,7 @@
     <item>
       <title>Multimodal emotion recognition using EEG and eye tracking data</title>
       <link>https://weilongzheng.github.io/publication/zheng2014multimodal/</link>
-      <pubDate>Thu, 06 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2014multimodal/</guid>
       <description></description>
@@ -545,7 +554,7 @@
     <item>
       <title>Multimodel emotion analysis in response to multimedia</title>
       <link>https://weilongzheng.github.io/publication/zheng2014multimodel2/</link>
-      <pubDate>Thu, 06 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2014multimodel2/</guid>
       <description></description>
@@ -554,7 +563,7 @@
     <item>
       <title>Online object tracking based on depth image with sparse coding</title>
       <link>https://weilongzheng.github.io/publication/shen2014online/</link>
-      <pubDate>Mon, 03 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/shen2014online/</guid>
       <description></description>
@@ -563,7 +572,7 @@
     <item>
       <title>EEG-based emotion classification using deep belief networks</title>
       <link>https://weilongzheng.github.io/publication/zheng2014eeg/</link>
-      <pubDate>Mon, 08 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zheng2014eeg/</guid>
       <description></description>
@@ -572,7 +581,7 @@
     <item>
       <title>EEG-based emotion recognition using discriminative graph regularized extreme learning machine</title>
       <link>https://weilongzheng.github.io/publication/zhu2014eeg/</link>
-      <pubDate>Thu, 04 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhu2014eeg/</guid>
       <description></description>
@@ -581,7 +590,7 @@
     <item>
       <title>EOG-based drowsiness detection using convolutional neural networks</title>
       <link>https://weilongzheng.github.io/publication/zhu2014eog/</link>
-      <pubDate>Thu, 04 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhu2014eog/</guid>
       <description></description>
@@ -590,7 +599,7 @@
     <item>
       <title>Registration of depth image and color image based on Harris-SIFT</title>
       <link>https://weilongzheng.github.io/publication/zhao2012registration/</link>
-      <pubDate>Mon, 04 Jun 2012 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/zhao2012registration/</guid>
       <description></description>
