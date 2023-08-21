@@ -1,0 +1,100 @@
++++
+# Display name
+name = "Wei-Long Zheng"
+
+# Is this the primary user of the site?
+superuser = true
+
+# Role/position
+role = "Associate Professor, PhD advisor"
+
+# Organizations/Affiliations
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations = [ { name = "Shanghai Jiao Tong University", url = "" } ]
+
+# Short bio (displayed in user profile at end of posts)
+bio = "My research interests include computational neuroscience, machine learning, affective computing and brain-computer interactions."
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email = "weilonglive@gmail.com"
+
+# List (academic) interests or hobbies
+interests = [
+  "Affective Computing",
+  "Brain-Computer Interactions",
+  "Computational Neuroscience",
+  "Artificial Intelligence",
+  "Machine Learning",
+  "Clinical Healthcare",
+]
+
+# List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Postdoc Associate"
+  institution = "Massachusetts Institute of Technology, USA"
+  year = 2021
+  
+[[education.courses]]
+  course = "Research Fellow"
+  institution = "Massachusetts General Hospital, USA"
+  year = 2020
+  
+[[education.courses]]
+  course = "PhD in Computer Science"
+  institution = "Shanghai Jiao Tong University, China"
+  year = 2018
+
+[[education.courses]]
+  course = "BE in Electrical Engineering"
+  institution = "South China University of Technology, China"
+  year = 2012
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+[[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "mailto:weilonglive@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/WeiLongZheng1"
+  
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/wei-long-zheng-23b6b057/"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Wei_Long_Zheng"
+  
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=MZXXe8UAAAAJ&hl=en"
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/weilongzheng"
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/Resume_Weilong+Zheng.pdf"
+
++++
+<font color='blue'>Looking for highly-motivated students and postdocs to join our team to work on understanding how the brain works! Feel free to email me if you are interested!</font>
+
+Hi, I am currently a Tenured-Track Associate Professor in Department of Computer Science and Engineering, [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=444). My research interests cover the broad areas of affective brain-computer interfaces, computational neuroscience, machine learning, AI, clinical healthcare, and biomedical engineering. 
+
+Prior to SJTU, I was a Postdoc Associate in [Department of Brain and Cognitive Science] (https://bcs.mit.edu/) at [Massachusetts Institute of Technology] (https://www.mit.edu/) (MIT) in 2020-2021. I worked with [Michael Halassa] (https://scholar.google.com/citations?hl=en&user=1c06AyMAAAAJ#) and [Robert Yang] (http://guangyuyang.org/) on developing computational models for thalamocortical interactions in cognition. In 2018-2020, I was also a research fellow in Department of Neurology, [Massachusetts General Hospital](https://www.massgeneral.org/), [Harvard Medical School](https://hms.harvard.edu/), working with [M Brandon Westover](https://scholar.google.com/citations?user=helCG6IAAAAJ&hl=en), MD, PhD. I obtained my PhD degree in the [Center for Brain-Like Computing and Machine Intelligence](http://bcmi.sjtu.edu.cn/), [Department of Computer Science](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (2012-2018), China, supervised by [Bao-Liang Lu](http://bcmi.sjtu.edu.cn/~blu/).I obtained my Bachelor degree from Talented Student Program in Department of Electronic and Information Engineering, South China University of Technology, China, in 2012. From 06/2016 - 09/2016, I was a visiting researcher in [The Cichocki Laboratory for Advanced Brain Signal Processing](http://bsp.brain.riken.jp/), [Brain Science Institute](https://cbs.riken.jp/en/), [RIKEN](http://www.riken.jp/en/), Japan. 
+From 09/2014 - 03/2015, I was a visiting researcher in [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/index.html), Department of Computer Science and Artificial Intelligence, University of the Basque Country, Spain.

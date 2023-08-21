@@ -6,10 +6,19 @@
     <description>Recent content in Xun Wu on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/authors/xun-wu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigating EEG-based functional connectivity patterns for multimodal emotion recognition</title>
+      <link>https://weilongzheng.github.io/publication/wu2022investigating/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/wu2022investigating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investigating EEG-based functional connectivity patterns for multimodal emotion recognition</title>

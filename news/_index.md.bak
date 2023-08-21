@@ -1,0 +1,54 @@
++++
+title = "News"
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view = 2
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
++++
+* Jan. 2022 Joined Department of Computer Science and Engineering, Shanghai Jiao Tong University as Associate Professor
+
+* Dec. 2021 One paper about predicting neurological outcome in cardiac arrest accepted by IEEE TBME
+
+* Oct. 2021 One paper about coma prognostication in cardiac arrest accepted by Resuscitation
+
+* Aug. 2021 Invited as Program Committee (PC) Member for AAAI 2022
+
+* Oct. 2020 Joined MIT Department of Brain and Cognitive Science
+
+* Oct. 2020 Invited to join Editorial Board of Frontiers in Neuroergonomics 
+
+* Aug. 2020 Invited as Program Committee (PC) Member for AAAI 2021
+
+* Dec. 2019 Invited as Program Committee (PC) Member for IJCAI-PRICAI 2020
+
+* Oct. 2019 Invited to join Editorial Board of Brain-Computer Interfaces Section of Frontiers in Human Neuroscience as Review Editor
+
+* Sep. 2019 One paper about adaptive sedation monitoring in ICU accepted by IEEE TBME
+
+* Sep. 2019 One paper about tracking of level of consciousness and delirium accepted by npj Digital Medicine
+
+* Sep. 2019 Received Chinese Association for Artificial Intelligence (CAAI) Outstanding Doctoral Dissertation Award
+
+* Aug. 2019 Invited as Program Committee (PC) Member for AAAI-20
+
+* Jul. 2019 One abstract about outcome prediction after cardiac arrest accepted by Neurocritical Care Society (NCS) 17th Annual Meeting
+
+* Mar. 2019 Presented three postes in 9th International IEEE EMBS Conference on Neural Engineering
+
+* Dec. 2018 One paper accepted by IEEE Transactions on Intelligent Transportation Systems
+
+* Dec. 2018 Invited as Program Committee Member IJCAI 2019
+
+* Oct. 2018 Joined Massachusetts General Hospital and Harvard Medical School
+
+* Sep. 2018 I obtained my Ph.D. degree in computer science.
+
+* July 2018 I received IEEE Transactions on Autonomous Mental Development Outstanding Paper Award.
+

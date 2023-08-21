@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu Gan on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/lu-gan/</link>
+    <description>Recent content in Lu Gan on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/lu-gan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Identifying similarities and differences in emotion recognition with EEG and eye movements among Chinese, German, and French People</title>
+      <link>https://weilongzheng.github.io/publication/liu2022identifying/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2022identifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

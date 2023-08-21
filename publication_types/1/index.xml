@@ -6,10 +6,73 @@
     <description>Recent content in 1 on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cross-Subject Decision Confidence Estimation from EEG Signals Using Spectral-Spatial-Temporal Adaptive GCN with Domain Adaptation</title>
+      <link>https://weilongzheng.github.io/publication/gu2023cross/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/gu2023cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Graph Transformer Networks for EEG-Based Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/jiang2023elastic/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jiang2023elastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-Eye Movements Cross-Modal Decision Confidence Measurement with Generative Adversarial Networks</title>
+      <link>https://weilongzheng.github.io/publication/fei2023eeg/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/fei2023eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Artistic Expertise Difference in Emotion Recognition in Response to Oil Paintings</title>
+      <link>https://weilongzheng.github.io/publication/lan2023identifying/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/lan2023identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Class-Incremental Learning for EEG-Based Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/ma2022few/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2022few/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-view Spectral-Spatial-Temporal Masked Autoencoder for Decoding Emotions with Self-supervised Learning</title>
+      <link>https://weilongzheng.github.io/publication/li2022multi/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2022multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal emotion recognition in response to oil paintings</title>
+      <link>https://weilongzheng.github.io/publication/luo2022multimodal/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/luo2022multimodal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Machine Learning Algorithm for Predicting Outcome after Subarachnoid Hemorrhage</title>

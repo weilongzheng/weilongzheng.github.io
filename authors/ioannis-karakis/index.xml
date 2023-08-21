@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ioannis Karakis on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/ioannis-karakis/</link>
+    <description>Recent content in Ioannis Karakis on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/ioannis-karakis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Measuring expertise in identifying interictal epileptiform discharges</title>
+      <link>https://weilongzheng.github.io/publication/harid2022measuring/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/harid2022measuring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

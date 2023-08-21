@@ -1,0 +1,30 @@
++++
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Honors and Awards"
+subtitle = ""
+
+# Order that this section will appear in.
+weight = 37
+
++++
+* Shanghai Pujiang Program 2022
+* MSRA Star Track Program 2022
+* ACM Multimediea Top Paper Award 2022
+* Wu Wen Jun AI Science and Technology Award, First Prize 2021
+* Outstanding Reviewer Award for Journal of Neural Engineering 2019
+* Chinese Association for Artificial Intelligence (CAAI) Outstanding Doctoral Dissertation Award 2019
+* IEEE Transactions on Autonomous Mental Development Outstanding Paper Award 2018
+* Excellent Ph.D Student Scholarship of Yang Yuanqing Education Fund, SJTU 2016
+* Ruth Mulan Chu Chao Ph.D Student Scholarship, Shanghai Jiao Tong University 2016
+* National Scholarship for Graduate Student, Ministry of Education, China 2015
+* Postgraduate Academic Excellence Scholarship of SJTU 2014
+* Outstanding Graduate Scholarship in SCUT 2012
+* Second-class scholarship in SCUT 2011
+* National Scholarships Inspirational in SCUT 2010
+* National Scholarships Inspirational in SCUT 2009

@@ -1,0 +1,57 @@
++++
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Professional Services"
+subtitle = ""
+
+# Order that this section will appear in.
+weight = 36
+
++++
+
+
+## Program Committee
+ACII 2023, IJCAI 2023
+[AAAI 2021] (https://aaai.org/Conferences/AAAI-21/) [IJCAI-PRICAI 2020](https://ijcai20.org/) 
+
+[AAAI 2020](https://aaai.org/Conferences/AAAI-20/) [IJCAI 2019](https://ijcai19.org/) [IJCAI 2018](https://www.ijcai.org/proceedings/2018/)
+
+## Editorial Board
+Associate Editor of Frontiers in Human Neuroscience 
+
+Review Editor of Frontiers in Neuroergonomics 
+
+## Membership
+IEEE Member (2019-)
+
+IEEE Student Member (2014-2018)
+
+## Journal Reviewer
+Nature Computational Science
+
+IEEE Transactions on Affective Computing
+
+IEEE Transactions on Cognitive and Developmental Systems
+
+IEEE Transactions on Neural Networks and Learning Systems
+
+Journal of Neural Engineering
+
+IEEE Transactions on Biomedical Engineering
+
+Journal of Biomedical and Health Informatics
+
+IEEE Transactions on Intelligent Transportation Systems
+
+## Conference External Reviewer
+IJCAI 2023, CHI 2023, AAAI'21, IJCAI'20, AAAI'20, IJCAI'19, ISNN'19, IJCAI'18, ACII'17, ICONIP'16, ICONIP'15, ICONIP'14
+
+## Teaching
+Neural Network Theory and Applications
+Artificial Intelligence
+Foundation of Data Science
