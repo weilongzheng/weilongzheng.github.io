@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangyu Robert Yang on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/guangyu-robert-yang/</link>
+    <description>Recent content in Guangyu Robert Yang on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/guangyu-robert-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rapid context inference in a thalamocortical model using recurrent neural networks</title>
+      <link>https://weilongzheng.github.io/publication/zheng2024rapid/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2024rapid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

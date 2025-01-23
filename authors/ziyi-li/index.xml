@@ -6,10 +6,46 @@
     <description>Recent content in Ziyi Li on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/authors/ziyi-li/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Functional emotion transformer for EEG-assisted cross-modal emotion recognition</title>
+      <link>https://weilongzheng.github.io/publication/jiang2024functional/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jiang2024functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal-Spatial Prediction: Pre-Training on Diverse Datasets for EEG Classification</title>
+      <link>https://weilongzheng.github.io/publication/li2024temporal/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2024temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying sex differences in EEG-based emotion recognition using graph convolutional network with attention mechanism</title>
+      <link>https://weilongzheng.github.io/publication/peng2023identifying/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/peng2023identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalistic Emotion Recognition Using EEG and Eye Movements</title>
+      <link>https://weilongzheng.github.io/publication/zhang2023naturalistic/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zhang2023naturalistic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multimodal emotion recognition in response to oil paintings</title>

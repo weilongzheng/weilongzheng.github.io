@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fei Cheng on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/fei-cheng/</link>
+    <description>Recent content in Fei Cheng on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/fei-cheng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Addressing Temporal and Auditory Factors in Meditative EEG with Self-Supervised Learning</title>
+      <link>https://weilongzheng.github.io/publication/gou2024addressing/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/gou2024addressing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

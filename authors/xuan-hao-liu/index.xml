@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuan-Hao Liu on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/xuan-hao-liu/</link>
+    <description>Recent content in Xuan-Hao Liu on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/xuan-hao-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emotion Recognition from Eye Movements Using Multi-way Autoregressive Model</title>
+      <link>https://weilongzheng.github.io/publication/ma2024emotion/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2024emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MoGE: Mixture of Graph Experts for Cross-subject Emotion Recognition via Decomposing EEG</title>
+      <link>https://weilongzheng.github.io/publication/liu2024moge/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2024moge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/jiang2024seed/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jiang2024seed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professor X: Manipulating EEG BCI with Invisible and Robust Backdoor Attack</title>
+      <link>https://weilongzheng.github.io/publication/liu2024professor/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2024professor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Stream Spectral-Temporal Denoising Network for End-to-End Robust EEG-Based Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/liu2023two/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2023two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal adaptive emotion transformer with flexible modality inputs on a novel dataset with continuous labels</title>
+      <link>https://weilongzheng.github.io/publication/jiang2023multimodal/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jiang2023multimodal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

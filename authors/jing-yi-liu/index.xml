@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing-Yi Liu on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/jing-yi-liu/</link>
+    <description>Recent content in Jing-Yi Liu on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/jing-yi-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transformer-Based Domain Adaptation for Multi-Modal Emotion Recognition in Response to Game Animation Videos</title>
+      <link>https://weilongzheng.github.io/publication/liu2023transformer/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2023transformer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

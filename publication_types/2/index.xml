@@ -6,10 +6,64 @@
     <description>Recent content in 2 on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From EEG to Eye Movements: Cross-modal Emotion Recognition Using Constrained Adversarial Network with Dual Attention</title>
+      <link>https://weilongzheng.github.io/publication/wang2024eeg/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/wang2024eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/jiang2024seed/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jiang2024seed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid context inference in a thalamocortical model using recurrent neural networks</title>
+      <link>https://weilongzheng.github.io/publication/zheng2024rapid/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zheng2024rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early burst suppression similarity association with structural brain injury severity on MRI after cardiac arrest</title>
+      <link>https://weilongzheng.github.io/publication/shivdat2024early/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/shivdat2024early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying sex differences in EEG-based emotion recognition using graph convolutional network with attention mechanism</title>
+      <link>https://weilongzheng.github.io/publication/amorim2023international/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/amorim2023international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying sex differences in EEG-based emotion recognition using graph convolutional network with attention mechanism</title>
+      <link>https://weilongzheng.github.io/publication/peng2023identifying/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/peng2023identifying/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neurophysiology State Dynamics Underlying Acute Neurological Recovery After Cardiac Arrest</title>
@@ -17,6 +71,15 @@
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0800</pubDate>
       
       <guid>https://weilongzheng.github.io/publication/amorim2023neurophysiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Guided Multi-scale Convolutional Neural Network for Driving Fatigue Detection</title>
+      <link>https://weilongzheng.github.io/publication/tang2024attention/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/tang2024attention/</guid>
       <description></description>
     </item>
     

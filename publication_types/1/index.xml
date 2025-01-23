@@ -6,10 +6,253 @@
     <description>Recent content in 1 on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Addressing Temporal and Auditory Factors in Meditative EEG with Self-Supervised Learning</title>
+      <link>https://weilongzheng.github.io/publication/gou2024addressing/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/gou2024addressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition from Eye Movements Using Multi-way Autoregressive Model</title>
+      <link>https://weilongzheng.github.io/publication/ma2024emotion/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2024emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MoGE: Mixture of Graph Experts for Cross-subject Emotion Recognition via Decomposing EEG</title>
+      <link>https://weilongzheng.github.io/publication/liu2024moge/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2024moge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Repair with LLMs gives an Exploration-Exploitation Tradeoff</title>
+      <link>https://weilongzheng.github.io/publication/tang2024code/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/tang2024code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals</title>
+      <link>https://weilongzheng.github.io/publication/liueeg2video/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liueeg2video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images</title>
+      <link>https://weilongzheng.github.io/publication/yu2024fuseanypart/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/yu2024fuseanypart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multimodal Myanmar Emotion Dataset for Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/aung2024multimodal/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/aung2024multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Self-supervised EEG Representation Learning for Emotion Classification</title>
+      <link>https://weilongzheng.github.io/publication/hu2024contrastive/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/hu2024contrastive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG Data Augmentation for Emotion Recognition Using Diffusion Model</title>
+      <link>https://weilongzheng.github.io/publication/zhao2024eeg/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zhao2024eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-Based Tension Recognition Annotated with Electrodermal Activity</title>
+      <link>https://weilongzheng.github.io/publication/gu2024eeg/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/gu2024eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused State Recognition Using EEG with Eye Movement-Assisted Annotation</title>
+      <link>https://weilongzheng.github.io/publication/li2024focused/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2024focused/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Cross-Subject Emotion Recognition Performance with an Encoder-Decoder Structure</title>
+      <link>https://weilongzheng.github.io/publication/cui2024improving/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/cui2024improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-modal Adversarial Regressive Transformer for Cross-subject Fatigue Detection</title>
+      <link>https://weilongzheng.github.io/publication/gou2024multi/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/gou2024multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Major Depression Disorder with Multiview Eye Movement Features in a Novel Oil Painting Paradigm</title>
+      <link>https://weilongzheng.github.io/publication/ma2024detecting/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2024detecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEMOAE: A Dynamic Autoencoder with Masked Channel Modeling for Robust EEG-Based Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/lan2024cemoae/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/lan2024cemoae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional emotion transformer for EEG-assisted cross-modal emotion recognition</title>
+      <link>https://weilongzheng.github.io/publication/jiang2024functional/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jiang2024functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Multi-View Spectral-Spatial-Temporal Masked Autoencoder for Self-Supervised Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/gao2024multimodal/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/gao2024multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal-Spatial Prediction: Pre-Training on Diverse Datasets for EEG Classification</title>
+      <link>https://weilongzheng.github.io/publication/li2024temporal/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2024temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer-Based Domain Adaptation for Multi-Modal Emotion Recognition in Response to Game Animation Videos</title>
+      <link>https://weilongzheng.github.io/publication/liu2023transformer/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2023transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAformer: Transformer with Domain Adversarial Adaptation for EEG-Based Emotion Recognition with Live-Oil Paintings</title>
+      <link>https://weilongzheng.github.io/publication/jin2023daformer/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jin2023daformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalistic Emotion Recognition Using EEG and Eye Movements</title>
+      <link>https://weilongzheng.github.io/publication/zhang2023naturalistic/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zhang2023naturalistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Stream Spectral-Temporal Denoising Network for End-to-End Robust EEG-Based Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/liu2023two/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2023two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Depression Detection with Resting-State and Cognitive-Task EEG</title>
+      <link>https://weilongzheng.github.io/publication/lan2023investigating/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/lan2023investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating emotion EEG patterns for depression detection with attentive simple graph convolutional network</title>
+      <link>https://weilongzheng.github.io/publication/peng2023deep/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/peng2023deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal adaptive emotion transformer with flexible modality inputs on a novel dataset with continuous labels</title>
+      <link>https://weilongzheng.github.io/publication/jiang2023multimodal/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/jiang2023multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective Depression Detection Using EEG and Eye Movement Signals Induced by Oil Paintings</title>
+      <link>https://weilongzheng.github.io/publication/liu2023objective/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liu2023objective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tagging Continuous Labels for EEG-based Emotion Classification</title>
+      <link>https://weilongzheng.github.io/publication/gu2023tagging/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/gu2023tagging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-Subject Decision Confidence Estimation from EEG Signals Using Spectral-Spatial-Temporal Adaptive GCN with Domain Adaptation</title>

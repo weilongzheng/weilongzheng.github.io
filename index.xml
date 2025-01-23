@@ -6,141 +6,141 @@
     <description>Recent content in Wei-Long Zheng on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Neurophysiology State Dynamics Underlying Acute Neurological Recovery After Cardiac Arrest</title>
-      <link>https://weilongzheng.github.io/publication/amorim2023neurophysiology/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0800</pubDate>
+      <title>From EEG to Eye Movements: Cross-modal Emotion Recognition Using Constrained Adversarial Network with Dual Attention</title>
+      <link>https://weilongzheng.github.io/publication/wang2024eeg/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/amorim2023neurophysiology/</guid>
+      <guid>https://weilongzheng.github.io/publication/wang2024eeg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seeing through the Brain: Image Reconstruction of Visual Perception from Human Brain Signals</title>
-      <link>https://weilongzheng.github.io/publication/lan2023seeing/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0800</pubDate>
+      <title>SEED-DV</title>
+      <link>https://weilongzheng.github.io/datasets/seed-dv/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/lan2023seeing/</guid>
+      <guid>https://weilongzheng.github.io/datasets/seed-dv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cross-Subject Decision Confidence Estimation from EEG Signals Using Spectral-Spatial-Temporal Adaptive GCN with Domain Adaptation</title>
-      <link>https://weilongzheng.github.io/publication/gu2023cross/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0800</pubDate>
+      <title>SEED-VII</title>
+      <link>https://weilongzheng.github.io/datasets/seed-vii/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/gu2023cross/</guid>
+      <guid>https://weilongzheng.github.io/datasets/seed-vii/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>I-CARE</title>
-      <link>https://weilongzheng.github.io/datasets/icare/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0800</pubDate>
+      <title>Addressing Temporal and Auditory Factors in Meditative EEG with Self-Supervised Learning</title>
+      <link>https://weilongzheng.github.io/publication/gou2024addressing/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/datasets/icare/</guid>
+      <guid>https://weilongzheng.github.io/publication/gou2024addressing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Elastic Graph Transformer Networks for EEG-Based Emotion Recognition</title>
-      <link>https://weilongzheng.github.io/publication/jiang2023elastic/</link>
-      <pubDate>Sun, 04 Jun 2023 00:00:00 +0800</pubDate>
+      <title>Emotion Recognition from Eye Movements Using Multi-way Autoregressive Model</title>
+      <link>https://weilongzheng.github.io/publication/ma2024emotion/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/jiang2023elastic/</guid>
+      <guid>https://weilongzheng.github.io/publication/ma2024emotion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Affective Brain-Comouter Interactions</title>
-      <link>https://weilongzheng.github.io/project/emotion/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0800</pubDate>
+      <title>MoGE: Mixture of Graph Experts for Cross-subject Emotion Recognition via Decomposing EEG</title>
+      <link>https://weilongzheng.github.io/publication/liu2024moge/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/project/emotion/</guid>
+      <guid>https://weilongzheng.github.io/publication/liu2024moge/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EEG-Eye Movements Cross-Modal Decision Confidence Measurement with Generative Adversarial Networks</title>
-      <link>https://weilongzheng.github.io/publication/fei2023eeg/</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0800</pubDate>
+      <title>Combining induction and transduction for abstract reasoning</title>
+      <link>https://weilongzheng.github.io/publication/li2024combining/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/fei2023eeg/</guid>
+      <guid>https://weilongzheng.github.io/publication/li2024combining/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Identifying Artistic Expertise Difference in Emotion Recognition in Response to Oil Paintings</title>
-      <link>https://weilongzheng.github.io/publication/lan2023identifying/</link>
-      <pubDate>Sat, 22 Apr 2023 00:00:00 +0800</pubDate>
+      <title>SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/jiang2024seed/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/lan2023identifying/</guid>
+      <guid>https://weilongzheng.github.io/publication/jiang2024seed/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Few-Shot Class-Incremental Learning for EEG-Based Emotion Recognition</title>
-      <link>https://weilongzheng.github.io/publication/ma2022few/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0800</pubDate>
+      <title>Professor X: Manipulating EEG BCI with Invisible and Robust Backdoor Attack</title>
+      <link>https://weilongzheng.github.io/publication/liu2024professor/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/ma2022few/</guid>
+      <guid>https://weilongzheng.github.io/publication/liu2024professor/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid hemorrhage</title>
-      <link>https://weilongzheng.github.io/publication/zheng2022automated/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0800</pubDate>
+      <title>Rapid context inference in a thalamocortical model using recurrent neural networks</title>
+      <link>https://weilongzheng.github.io/publication/zheng2024rapid/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/zheng2022automated/</guid>
+      <guid>https://weilongzheng.github.io/publication/zheng2024rapid/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Multi-view Spectral-Spatial-Temporal Masked Autoencoder for Decoding Emotions with Self-supervised Learning</title>
-      <link>https://weilongzheng.github.io/publication/li2022multi/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0800</pubDate>
+      <title>Code Repair with LLMs gives an Exploration-Exploitation Tradeoff</title>
+      <link>https://weilongzheng.github.io/publication/tang2024code/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/li2022multi/</guid>
+      <guid>https://weilongzheng.github.io/publication/tang2024code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>High epileptiform discharge burden predicts delayed cerebral ischemia after subarachnoid hemorrhage</title>
-      <link>https://weilongzheng.github.io/publication/kim2022high/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0800</pubDate>
+      <title>EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals</title>
+      <link>https://weilongzheng.github.io/publication/liueeg2video/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/kim2022high/</guid>
+      <guid>https://weilongzheng.github.io/publication/liueeg2video/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>High incidence of epileptiform activity in adults undergoing extracorporeal membrane oxygenation</title>
-      <link>https://weilongzheng.github.io/publication/amorim2022high/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0800</pubDate>
+      <title>FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images</title>
+      <link>https://weilongzheng.github.io/publication/yu2024fuseanypart/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/amorim2022high/</guid>
+      <guid>https://weilongzheng.github.io/publication/yu2024fuseanypart/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multimodal emotion recognition in response to oil paintings</title>
-      <link>https://weilongzheng.github.io/publication/luo2022multimodal/</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0800</pubDate>
+      <title>Early burst suppression similarity association with structural brain injury severity on MRI after cardiac arrest</title>
+      <link>https://weilongzheng.github.io/publication/shivdat2024early/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/luo2022multimodal/</guid>
+      <guid>https://weilongzheng.github.io/publication/shivdat2024early/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Measuring expertise in identifying interictal epileptiform discharges</title>
-      <link>https://weilongzheng.github.io/publication/harid2022measuring/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0800</pubDate>
+      <title>A Multimodal Myanmar Emotion Dataset for Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/aung2024multimodal/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://weilongzheng.github.io/publication/harid2022measuring/</guid>
+      <guid>https://weilongzheng.github.io/publication/aung2024multimodal/</guid>
       <description></description>
     </item>
     

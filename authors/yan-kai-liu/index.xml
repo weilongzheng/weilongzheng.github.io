@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan-Kai Liu on Wei-Long Zheng</title>
+    <link>https://weilongzheng.github.io/authors/yan-kai-liu/</link>
+    <description>Recent content in Yan-Kai Liu on Wei-Long Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://weilongzheng.github.io/authors/yan-kai-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals</title>
+      <link>https://weilongzheng.github.io/publication/liueeg2video/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/liueeg2video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG Data Augmentation for Emotion Recognition Using Diffusion Model</title>
+      <link>https://weilongzheng.github.io/publication/zhao2024eeg/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zhao2024eeg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

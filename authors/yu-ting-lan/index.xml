@@ -6,10 +6,28 @@
     <description>Recent content in Yu-Ting Lan on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/authors/yu-ting-lan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CEMOAE: A Dynamic Autoencoder with Masked Channel Modeling for Robust EEG-Based Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/lan2024cemoae/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/lan2024cemoae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating emotion EEG patterns for depression detection with attentive simple graph convolutional network</title>
+      <link>https://weilongzheng.github.io/publication/peng2023deep/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/peng2023deep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Seeing through the Brain: Image Reconstruction of Visual Perception from Human Brain Signals</title>

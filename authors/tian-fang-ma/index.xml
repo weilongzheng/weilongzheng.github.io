@@ -6,10 +6,55 @@
     <description>Recent content in Tian-Fang Ma on Wei-Long Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://weilongzheng.github.io/authors/tian-fang-ma/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Emotion Recognition from Eye Movements Using Multi-way Autoregressive Model</title>
+      <link>https://weilongzheng.github.io/publication/ma2024emotion/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2024emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multimodal Myanmar Emotion Dataset for Emotion Recognition</title>
+      <link>https://weilongzheng.github.io/publication/aung2024multimodal/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/aung2024multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused State Recognition Using EEG with Eye Movement-Assisted Annotation</title>
+      <link>https://weilongzheng.github.io/publication/li2024focused/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/li2024focused/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Major Depression Disorder with Multiview Eye Movement Features in a Novel Oil Painting Paradigm</title>
+      <link>https://weilongzheng.github.io/publication/ma2024detecting/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/ma2024detecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalistic Emotion Recognition Using EEG and Eye Movements</title>
+      <link>https://weilongzheng.github.io/publication/zhang2023naturalistic/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://weilongzheng.github.io/publication/zhang2023naturalistic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Few-Shot Class-Incremental Learning for EEG-Based Emotion Recognition</title>
